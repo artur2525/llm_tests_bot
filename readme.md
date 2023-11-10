@@ -2,6 +2,10 @@ The bot that gives generates tests from a database of questions on selected indu
 
 ----
 Here scheme oj project:
-![stage1]()
-![stage2]()
-![stage3]()
+![stage1](https://github.com/artur2525/llm_tests_bot/blob/main/miro1.png)
+
+----
+![stage2](https://github.com/artur2525/llm_tests_bot/blob/main/miro2.png)
+
+----
+![stage3](https://github.com/artur2525/llm_tests_bot/blob/main/miro3.png)
